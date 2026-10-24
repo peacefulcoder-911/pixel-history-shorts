@@ -1,0 +1,10 @@
+# Environment & OS
+.env
+.env.*
+.DS_Store
+__pycache__/
+
+# Output renders & temp caches
+out/*.mp4
+temp/
+audio/*.wav
